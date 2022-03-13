@@ -1,0 +1,14 @@
+{
+  "name": "1c5467f1ff0a5bdd",
+  "main": "1c5467f1ff0a5bdd@611.js",
+  "version": "611.0.0",
+  "homepage": "https://observablehq.com/d/1c5467f1ff0a5bdd",
+  "author": {
+    "name": "Aaron Wang",
+    "url": "https://observablehq.com/@aaronwang"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
