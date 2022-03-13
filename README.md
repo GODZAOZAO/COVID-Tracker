@@ -40,7 +40,7 @@ main.value("foo").then(value => console.log(value));
 
 ## Results
 <p align="center">
-  <img width="100%" height="500" src="https://www.linkpicture.com/q/score_vs_year.png">
-  <img width="100%" height="500" src="https://www.linkpicture.com/q/freq_vs_year.png">
+  <img width="80%" height="500" src="https://github.com/GODZAOZAO/COVID-Tracker/blob/main/covid_chart.png"><br/><br/><br/><br/>
+  <img width="50%" height="500" src="https://github.com/GODZAOZAO/COVID-Tracker/blob/main/covid_state.png">
 </p>
 
