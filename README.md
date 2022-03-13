@@ -1,7 +1,9 @@
 # Covid Tracker
+A viualization tool tracking the number of the latest COIVD-19 cases as well as the trend of COVID-19 in each states in U.S.
 
 https://observablehq.com/d/1c5467f1ff0a5bdd@611
 
+## Getting Started
 View this notebook in your browser by running a web server in this folder. For
 example:
 
@@ -31,3 +33,14 @@ const runtime = new Runtime();
 const main = runtime.module(define);
 main.value("foo").then(value => console.log(value));
 ~~~
+
+## Key Features
+* Track COVID-19 cases in each state. Allows users to get an overview of COVID-19 trends.
+* Daily update of the total number of COVID-19 cases in the United States.
+
+## Results
+<p align="center">
+  <img width="100%" height="500" src="https://www.linkpicture.com/q/score_vs_year.png">
+  <img width="100%" height="500" src="https://www.linkpicture.com/q/freq_vs_year.png">
+</p>
+
